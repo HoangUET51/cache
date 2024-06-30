@@ -1,0 +1,20 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api-benchmark": "^1.0.1",
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "memory-cache": "^0.2.0",
+    "node-cache": "^5.1.2",
+    "redis": "^4.6.14"
+  }
+}
